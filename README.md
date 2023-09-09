@@ -6,6 +6,6 @@ The contents of my repository are as follows:
 ## Readme
 This file contains information about the repository and its contents.
 
-## .gitignore
+### .gitignore
 This files specifies the files and directories that should be excluded from version control. 
 
