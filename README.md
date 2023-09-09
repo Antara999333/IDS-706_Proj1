@@ -15,6 +15,10 @@ It is an automation tool which defines tasks and dependencies. It helps to compi
 ## Requirements.txt
 This is used for python projects. It specifies the dependencies of the project. Tools such as pip are used to install dependencies. 
 
+## Multiply.py
+This is a simple python function that multiples two numbers. 
 
+## Devcontainer
+This is a configuration file which specifies tools, settings and extensions. 
 
 
