@@ -12,4 +12,9 @@ This files specifies the files and directories that should be excluded from vers
 ## Makefile
 It is an automation tool which defines tasks and dependencies. It helps to compile and test projects. 
 
+## Requirements.txt
+This is used for python projects. It specifies the dependencies of the project. Tools such as pip are used to install dependencies. 
+
+
+
 
