@@ -22,6 +22,6 @@ This is used for python projects. It specifies the dependencies of the project. 
 ## Multiply.py
 This is a simple python function that multiples two numbers. 
 
-
+## ![test](https://github.com/Antara999333/IDS-706_Proj1/blob/main/image%20for%20mini%20proj%201.png)
 
 
