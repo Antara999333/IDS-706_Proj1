@@ -9,3 +9,7 @@ This file contains information about the repository and its contents.
 ## .gitignore
 This files specifies the files and directories that should be excluded from version control. 
 
+## Makefile
+It is an automation tool which defines tasks and dependencies. It helps to compile and test projects. 
+
+
